@@ -4,3 +4,5 @@ Save the file, add FAQ.md to the index, and then commit it with the message “a
 
 
 Second treat details will be mentioned over here. 
+
+new FAQ's
